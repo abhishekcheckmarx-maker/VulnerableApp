@@ -1,6 +1,6 @@
 # Security Remediation Guide
 
-This directory contains detailed instructions on how to fix each security vulnerability found in the Vulnerable Web Application.
+This directory contains detailed instructions on how to fix each security vulnerability found in the Vulnerable Web Application. Demo
 
 ## Directory Structure
 
